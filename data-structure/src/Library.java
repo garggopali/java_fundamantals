@@ -11,7 +11,7 @@ public class Library {
         books = new ArrayList<>();
     }
 
-    public ArrayList<Book> getBook() {
+    public ArrayList<Book> getBooks() {
         return books;
     }
 
